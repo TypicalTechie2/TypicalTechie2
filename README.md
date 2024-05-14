@@ -25,16 +25,21 @@
 - **Soft Skills:** Communication, Team Collaboration, Analytical Thinking, Strong Work Ethic
 - **Additional Skills:** Project Management, Problem-Solving
 
+
+
 ### Socials
 
 [LinkedIn](www.linkedin.com/in/bhaskar-p-b99745209)
 [Twitter](https://twitter.com/OnePieceTechie)
 [Discord](https://discordapp.com/users/315353573477318658)
 
+
+
 ### Tech Stack
 
-![Unity](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg)
-![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
+<img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50">
+
 
 
 ### GitHub Stats
