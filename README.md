@@ -37,5 +37,5 @@
 
 ### Tech Stack
 
-<img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" width="50" height="50">
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50">
+<img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50">
+
