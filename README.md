@@ -24,3 +24,19 @@
 - **Analysis:** Code review, Game Design Document (GDD)
 - **Soft Skills:** Communication, Team Collaboration, Analytical Thinking, Strong Work Ethic
 - **Additional Skills:** Project Management, Problem-Solving
+
+### Socials
+
+[LinkedIn](www.linkedin.com/in/bhaskar-p-b99745209)
+[Twitter](https://twitter.com/OnePieceTechie)
+[Discord](https://discordapp.com/users/315353573477318658)
+
+### Tech Stack
+
+![Unity](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg)
+![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
+
+
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TypicalTechie2&show_icons=true)
