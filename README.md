@@ -29,7 +29,7 @@
 
 ### Socials
 
-[LinkedIn](www.linkedin.com/in/bhaskar-p-b99745209)
+[LinkedIn](https://www.linkedin.com/in/bhaskar-p-b99745209/)
 [Twitter](https://twitter.com/OnePieceTechie)
 [Discord](https://discordapp.com/users/315353573477318658)
 
